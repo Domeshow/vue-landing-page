@@ -1,5 +1,7 @@
 # vue-build-app
 
+## Description
+This is just to help you to know how you can generate a view using comonents and how to send datas to the component dynamically
 ## Project setup
 ```
 npm install
